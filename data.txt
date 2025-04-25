@@ -1,0 +1,51 @@
+NO.OF BATCHES = 4
+NO.OF COURSES = 8
+NO.OF SESSIONS = 5
+
+COURSES
+HS201
+EE201
+MA201
+GE107
+NS201
+NO201
+CS201
+CS203
+
+BRANCH : NO.OF COURSES
+Computer Science : 4
+Mathematics and Computing : 2
+Electrical : 3
+Mechanical : 4
+
+BRANCH : COURSES
+Computer Science :
+MA201
+NS201
+CS201
+CS203
+
+Mathematics and Computing :
+GE107
+EE201
+
+Electrical :
+NO201
+HS201
+MA201
+
+Mechanical :
+EE201
+CS201
+HS201
+NS201
+
+SESSIONS
+10:00 am - 10:50 am
+11:00 am - 11:50 am
+12:00 am - 12:50 pm
+2:00 pm - 2:50 pm
+3:00 pm - 3:50 pm
+---End
+
+
